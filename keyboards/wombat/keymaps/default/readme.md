@@ -1,0 +1,1 @@
+# The default keymap for wombat_clone
