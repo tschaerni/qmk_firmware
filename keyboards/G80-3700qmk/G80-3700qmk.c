@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "G80-3700_qmk.h"
+#include "G80-3700qmk.h"
 
 // Optional override functions below.
 // You can leave any or all of these undefined.
