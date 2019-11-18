@@ -53,9 +53,9 @@ void matrix_scan_user(void) {
 
 bool led_update_user(led_t led_state) {
     if (led_state.num_lock) {
-        writePinLow(D0);
+        writePinHigh(D1);
     } else {
-        writePinHigh(D0);
+        writePinLow(D1);
     }
     return true;
 }
